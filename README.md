@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Marina Oliveira (@mari-oliv)
-- 👀 I’m interested in Code
-- 🌱 I’m currently learning Front-End
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: marina.oliveira.lw@gmail.com
+- 👀 I’m interested in Data
+- 🌱 I’m currently learning ML
+- 📫 How to reach me: marina.oliveira.ti@gmail.com
 
 <!---
 mari-oliv/mari-oliv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
